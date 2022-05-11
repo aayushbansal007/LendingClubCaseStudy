@@ -40,7 +40,7 @@ Following are the columns that can help our predictive model to identify the loa
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@aayushbansal007] - feel free to contact me!
 
 
 <!-- Optional -->
